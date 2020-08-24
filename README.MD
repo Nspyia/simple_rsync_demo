@@ -7,4 +7,4 @@
 5. BASH窗口1: `./server`
 6. BASH窗口2: `./client`
 
-CSDN : https://blog.csdn.net/yinxiaobao97/article/details/108181980
+详细原理介绍 : https://blog.csdn.net/yinxiaobao97/article/details/108181980
